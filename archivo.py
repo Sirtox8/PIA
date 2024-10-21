@@ -1,2 +1,3 @@
 def funcion ():
-    pass
+    a=[]
+    return a
