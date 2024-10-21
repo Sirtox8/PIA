@@ -1,4 +1,4 @@
 def funcion ():
     a=[]
     b=[]
-    return a
+    return a + b
